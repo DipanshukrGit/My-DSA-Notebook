@@ -8,11 +8,11 @@ This repo includes:
 
 - ✅ Classic DSA questions (arrays, strings, trees, graphs, etc.)
   
-- 🧠 Logical and tricky coding problems
+- 🧠 Logical and tricky coding problems.
   
-- 💻 Clean and efficient code solutions in C++
+- 💻 Clean and efficient code solutions in C++.
 
-- ✍️ My personal notes, approaches, and optimizations
+- ✍️ My personal notes, approaches, and optimizations.
   
   
 
