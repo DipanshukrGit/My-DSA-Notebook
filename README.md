@@ -1,6 +1,6 @@
 # 🚀 DSA Problem Bank
 
-Welcome to my DSA (Data Structures and Algorithms) repository! This is a collection of problems I've solved during my preparation for coding interviews, competitive programming, and technical exams.
+Welcome to my DSA (Data Structures and Algorithms) repository!! This is a collection of problems I've solved during my preparation for coding interviews, competitive programming, and technical exams.
 
 ## 📚 About the Repository
 
