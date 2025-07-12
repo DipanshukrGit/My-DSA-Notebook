@@ -6,7 +6,7 @@ Welcome to my DSA (Data Structures and Algorithms) repository!! This is a collec
 
 This repo includes:
 
-- ✅ Classic DSA questions (arrays, strings, trees, graphs, etc.)
+- ✅ Classic DSA questions (arrays, strings, trees, graphs, etc.
   
 - 🧠 Logical and tricky coding problems.
   
